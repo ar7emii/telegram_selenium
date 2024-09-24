@@ -1,0 +1,11 @@
+xpath_login_by_phone_number_button = '//div[@class="auth-form qr"]//button[@class="Button default primary text"]'
+xpath_input_phone_number = '//input[@id="sign-in-phone-number"]'
+xpath_keep_me_signed_in_check_box = '//input[@id="sign-in-keep-session"]'
+xpath_next_button = '//button[@class="Button default primary has-ripple"]'
+xpath_sign_in_code = '//input[@id="sign-in-code"]'
+xpath_input_password = '//input[@id="sign-in-password"]'
+xpath_saved_messages_chat = '//*[@id="LeftColumn-main"]/div[2]/div/div/div/div/div/div[2]/a'
+xpath_send_message_field = '//div[@id="editable-message-text"]'
+xpath_send_message_button = '//button[@class="Button send default secondary round click-allowed"]'
+xpath_last_messages = '//div[@class="text-content clearfix with-meta with-outgoing-icon" and position() > last() - 5]'
+
